@@ -18,6 +18,7 @@ public class EmployeeView extends JFrame {
 
     private void init() {
         setTitle("员工管理界面");
-
+        jPanelCenter = new JPanel();
+        
     }
 }

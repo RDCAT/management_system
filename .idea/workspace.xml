@@ -75,10 +75,14 @@
       <file leaf-file-name="EmployeeView.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/mao/view/employeepage/EmployeeView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            <state relative-caret-position="331">
+              <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#339#340#0" expanded="true" />
+                <element signature="e#361#362#0" expanded="true" />
+                <element signature="e#402#403#0" expanded="true" />
+                <element signature="e#436#437#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -120,6 +124,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -138,11 +145,13 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="672" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="402" />
+    <option name="y" value="13" />
     <option name="width" value="1295" />
     <option name="height" value="1040" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -246,7 +255,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -351,15 +360,15 @@
       <option name="presentableId" value="Default" />
       <updated>1529418324944</updated>
       <workItem from="1529418326413" duration="2666000" />
-      <workItem from="1529461663898" duration="4815000" />
+      <workItem from="1529461663898" duration="5701000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7481000" />
+    <option name="totallyTimeSpent" value="8367000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="538" y="0" width="1036" height="832" extended-state="0" />
+    <frame x="322" y="11" width="1036" height="832" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -371,8 +380,8 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32962447" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33008358" />
       <window_info anchor="right" id="Mybatis datasource" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
@@ -532,10 +541,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/mao/view/employeepage/EmployeeView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        <state relative-caret-position="331">
+          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
           </folding>
         </state>
       </provider>
